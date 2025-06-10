@@ -1,2 +1,1 @@
-# DIP_Mini_Project
-DIP Mini Project 
+Text Summarizer and Image Description Website
